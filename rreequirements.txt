@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+streamlit==1.19.0
+requests
+altair==4.2.2
